@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f3b3e05-a68d-4f7f-ba13-ca6b4c8ad3b5">
+  <producedTypes>
+    <objectType typeId="c4268cfd-55ec-450b-aee0-ac6608219c16" valueTypeId="fb7cbee9-2a95-43b0-91ab-310ca840a406"/>
+    <refType typeId="4a36248d-ba71-4d1e-a86f-a93d69faf41b" valueTypeId="99ae886b-d5d5-441a-90a7-0a00aa9ea699"/>
+    <selectionType typeId="f3208a14-5de1-4c29-a539-3b62a18f64f0" valueTypeId="c025fdad-0b7b-44e9-ace0-9edb0892ba10"/>
+    <listType typeId="13251fe0-f276-4926-8d26-615e934efc71" valueTypeId="077f1732-7a84-42f0-ab92-8672fe9ccc35"/>
+    <managerType typeId="6990f5e4-4077-4829-b8e6-712ee1b3f2a7" valueTypeId="8d5957a2-16a7-4bfc-aae9-4819129326f2"/>
+  </producedTypes>
+  <name>Комментатор</name>
+  <synonym>
+    <key>ru</key>
+    <value>Комментатор</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Комментатор.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Комментатор.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

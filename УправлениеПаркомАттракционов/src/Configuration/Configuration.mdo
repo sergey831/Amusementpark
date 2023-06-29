@@ -50,6 +50,7 @@
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
+  <catalogs>Catalog.Комментатор</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилета</documents>
